@@ -21,8 +21,8 @@ Cette certification m'a permis d'acquérir de solides compétences théoriques e
 * **Sécurité réseau** (protocoles TCP/IP, pare-feu, IDS/IPS)
 * **Réponse aux incidents** et investigations numériques
 * Utilisation d'outils **SIEM** (Security Information and Event Management)
-* Programmation en Langage Python
-* Linux & SQL
+* Programmation en Langage **Python**
+* **Linux & SQL**
 
 Cette Certification vise à me préparer au passage et l'obtention de la certification **CompTIA Security +**
 ---
